@@ -1,0 +1,1 @@
+you need discord tokens in here! 1 token per line, each token will make a new thread
