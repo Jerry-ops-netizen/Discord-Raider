@@ -1,7 +1,7 @@
 # Discord-Raider
+![ik your here to learn how to embed photos lol](https://i.imgur.com/seEBM1O.png)
 
-
-Before we begin , RAIDING IS AGAINST DISCORD TOS - This is a demo and I do not suspect you to use it.
+Before we begin , RAIDING IS AGAINST DISCORD TOS - This is a demo and I do not want you to use it.
 
 As my proxies were awful I have now made this proxiless - it goes SOOOO fast :)
 
